@@ -77,7 +77,8 @@ ul {
         display: flex;
       }
       header nav ul li a {
-        
+        display: block;
+
       }
     /*end header*/
 
