@@ -56,6 +56,7 @@ ul {
     }
 
     header .container::after {
+        content: "";
     }
     /*end header*/
 
