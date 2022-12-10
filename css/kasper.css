@@ -98,6 +98,8 @@ ul {
         header nav .toggle-menu:hover + ul {
             display: flex;
             flex-direction: column;
+            position: absolute;
+
         }
     }
       header nav ul li a {
