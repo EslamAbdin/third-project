@@ -91,6 +91,7 @@ ul {
       }
       header nav ul li a.active,
 header nav ul li a:hover {
+    color: var(--main-color);
 }
     /*end header*/
 
