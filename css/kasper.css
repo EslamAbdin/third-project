@@ -28,5 +28,11 @@ ul {
       width: 750px;
     }
   }
+/* Medium */
+@media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
 /* end container sector*/
     /*end global rules*/
