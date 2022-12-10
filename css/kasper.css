@@ -22,5 +22,11 @@ ul {
     margin-left: auto;
     margin-right: auto;
 }
+/* small */
+@media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
 /* end container sector*/
     /*end global rules*/
