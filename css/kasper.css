@@ -1,3 +1,5 @@
 /*start global rules*/
-*{}
+*{
+    -webkit-box-sizing: border-box;
+}
 /*end global rules*/
