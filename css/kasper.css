@@ -78,6 +78,8 @@ ul {
         align-items: center;
         justify-content: flex-end;
     }
+    header nav .toggle-menu {
+    } 
     header nav ul {
         display: flex;
       }
