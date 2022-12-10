@@ -6,7 +6,7 @@
      padding: 0;
      margin: 0;
 }
-html{
-    
+html {
+    scroll-behavior: smooth;
 }
 /*end global rules*/
