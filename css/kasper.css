@@ -107,8 +107,7 @@ header nav .form i {
     font-size: 20px;
     top: 50%;
     transform: translateY(-50%);
-
-
+    right: 0;
 }
     /*end header*/
 
