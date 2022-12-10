@@ -9,7 +9,8 @@
 html {
     scroll-behavior: smooth;
 }
-body{}
-    
+body{
+    font-family: "Open Sans", sans-serif;
+  }
     
     /*end global rules*/
