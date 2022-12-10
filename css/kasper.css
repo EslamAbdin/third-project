@@ -54,5 +54,8 @@ ul {
     align-items: center;
     position: relative;
     }
+
+    header .container::after {
+    }
     /*end header*/
 
