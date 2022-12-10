@@ -79,6 +79,7 @@ ul {
         justify-content: flex-end;
     }
     header nav .toggle-menu {
+        color: white;
     } 
     header nav ul {
         display: flex;
