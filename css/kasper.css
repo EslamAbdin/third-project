@@ -50,6 +50,7 @@ ul {
     /*end global rules*/
     /*start header*/
     header{
+    position: absolute;
 
 
     }
