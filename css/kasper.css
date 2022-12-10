@@ -96,6 +96,7 @@ ul {
           display: none;
         }
         header nav .toggle-menu:hover + ul {
+            display: flex;
         }
     }
       header nav ul li a {
