@@ -76,5 +76,8 @@ ul {
     header nav ul {
         display: flex;
       }
+      header nav ul li a {
+        
+      }
     /*end header*/
 
