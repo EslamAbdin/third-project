@@ -57,6 +57,7 @@ ul {
 
     header .container::after {
         content: "";
+        position: absolute;
     }
     /*end header*/
 
