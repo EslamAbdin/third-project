@@ -145,7 +145,7 @@ header nav .form i {
     background-color: #1f2021;
     background-image: url("../images/landing.jpg");
     background-size: cover;
-
+    position: relative;
   }
     /*end landing*/
 
