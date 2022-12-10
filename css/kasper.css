@@ -89,5 +89,8 @@ ul {
         font-size: 14px;
         transition: 0.3s;
       }
+      header nav ul li a.active,
+header nav ul li a:hover {
+}
     /*end header*/
 
