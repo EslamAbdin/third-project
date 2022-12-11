@@ -307,6 +307,8 @@ header nav .form i {
         /*end services*/
         /*start design*/
         .design {
+          padding-top: var(--section-padding);
+
         }
         /*end design*/
 
