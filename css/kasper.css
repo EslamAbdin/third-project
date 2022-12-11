@@ -314,7 +314,7 @@ header nav .form i {
           background-image: url("../images/design-features.jpg");
           background-size: cover;
           display: flex;
-
+          align-items: center;
         }
         /*end design*/
 
