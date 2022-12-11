@@ -269,7 +269,7 @@ header nav .form i {
     /*start services*/
     .services {
       padding-top: var(--section-padding);
-
+      padding-bottom: var(--section-padding);
     }
         /*end services*/
 
