@@ -408,6 +408,7 @@ header nav .form i {
         .portfolio .imgs-container .box .caption {
           position: absolute;
           left: 0;
+          padding: 20px;
 
         }
         /*end portfolio*/
