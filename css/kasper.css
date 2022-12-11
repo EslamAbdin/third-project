@@ -84,6 +84,8 @@ ul {
     .main-heading p {
       width: 550px;
       margin: 0 auto 100px;
+      max-width: 100%;
+
     }
     /*end compantent*/
     /*start header*/
