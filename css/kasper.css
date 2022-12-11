@@ -274,6 +274,7 @@ header nav .form i {
     @media (min-width: 768px) {
       .services .services-container {
         display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(450px, 1fr));
       }
     }
     .services .srv-box {
