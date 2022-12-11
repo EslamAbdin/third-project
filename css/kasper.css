@@ -286,7 +286,9 @@ header nav .form i {
       margin-right: 50px;
     }
     @media (max-width: 767px) {
-      
+      .services .srv-box {
+        
+      }
     }
     .services .srv-box h3 {
       margin-bottom: 30px;
