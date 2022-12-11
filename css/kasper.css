@@ -199,7 +199,8 @@ header nav .form i {
     transform: translateX(-50%);
     bottom: 30px;
     display: flex;
-
+  }
+  .landing .bullets li {
   }
     /*end landing*/
 
