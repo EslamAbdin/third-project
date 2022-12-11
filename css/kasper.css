@@ -434,7 +434,7 @@ header nav .form i {
           display: block;
           width: fit-content;
           margin: 30px auto;
-
+          text-decoration: none;
         }
         /*end portfolio*/
 
