@@ -207,5 +207,7 @@ header nav .form i {
     border-radius: 50%;
     margin-right: 10px;
   }
+  .landing .bullets li.active {
+  }
     /*end landing*/
 
