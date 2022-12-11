@@ -387,6 +387,11 @@ header nav .form i {
           flex-wrap: wrap;
           margin-top: 60px;
         }
+        @media (min-width: 768px) {
+          .portfolio .imgs-container .box {
+            flex-basis: 50%;
+          }
+        }
         .portfolio .imgs-container .box img {
           max-width: 100%;
         }
