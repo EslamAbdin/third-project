@@ -201,6 +201,8 @@ header nav .form i {
     display: flex;
   }
   .landing .bullets li {
+    width: 20px;
+    
   }
     /*end landing*/
 
