@@ -357,8 +357,7 @@ header nav .form i {
           content: "\f108";
           font-weight: 900;
           margin-right: 20px;
-
-
+          position: relative;
         }
         
         /*end design*/
