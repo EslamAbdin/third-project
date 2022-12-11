@@ -65,7 +65,7 @@ ul {
       left: 50%;
       transform: translateX(-50%);
       height: 2px;
-
+      background-color: #333;
     }
     /*end compantent*/
     /*start header*/
