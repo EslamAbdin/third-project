@@ -71,6 +71,7 @@ ul {
     }
     .main-heading h2::after {
       content: "";
+      position: absolute;
 
     }
     /*end compantent*/
