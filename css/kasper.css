@@ -384,6 +384,8 @@ header nav .form i {
         }
         .portfolio .imgs-container {
           display: flex;
+          flex-wrap: wrap;
+
         }
         /*end portfolio*/
 
