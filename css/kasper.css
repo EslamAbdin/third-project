@@ -70,6 +70,8 @@ ul {
       width: 120px;
     }
     .main-heading h2::after {
+      content: "";
+
     }
     /*end compantent*/
     /*start header*/
