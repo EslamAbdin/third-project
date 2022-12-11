@@ -52,6 +52,8 @@ ul {
     .main-heading {
       text-align: center;
     }
+    .main-heading h2 {
+    }
     /*end compantent*/
     /*start header*/
     header{
