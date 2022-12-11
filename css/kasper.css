@@ -187,5 +187,8 @@ header nav .form i {
     transform: translateY(-50%);
     color: #ddd;
   }
+  .landing .fa-angle-left {
+    left: 30px;
+  }
     /*end landing*/
 
