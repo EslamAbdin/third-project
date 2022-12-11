@@ -76,7 +76,7 @@ ul {
       transform: translateX(-50%);
       width: 14px;
       height: 14px;
-
+      border-radius: 50%;
     }
     /*end compantent*/
     /*start header*/
