@@ -194,6 +194,8 @@ header nav .form i {
     right: 30px;
   }
   .landing .bullets {
+    position: absolute;
+
   }
     /*end landing*/
 
