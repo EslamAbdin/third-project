@@ -60,7 +60,8 @@ ul {
       text-transform: uppercase;
     }
     .main-heading h2::before{
-      
+      content: "";
+
     }
     /*end compantent*/
     /*start header*/
