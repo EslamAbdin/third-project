@@ -183,6 +183,7 @@ header nav .form i {
   }
   .landing .change-background {
     position: absolute;
+    top: 50%;
 
   }
     /*end landing*/
