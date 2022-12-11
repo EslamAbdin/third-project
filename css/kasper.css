@@ -318,6 +318,8 @@ header nav .form i {
           overflow: hidden;
         }
         .design::before {
+          content: "";
+
         }
         /*end design*/
 
