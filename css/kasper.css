@@ -893,3 +893,6 @@ header nav .form i {
             text-transform: uppercase;
             cursor: pointer;
           }
+          .contact .content .info {
+            flex-basis: 25%;
+          }
