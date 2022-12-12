@@ -861,6 +861,7 @@ header nav .form i {
           /*start desgin the contact*/
           .contact {
             padding-top: var(--section-padding);
+            padding-bottom: var(--section-padding);
           }
           
           
