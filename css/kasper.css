@@ -735,6 +735,7 @@ header nav .form i {
             content: "$";
             font-size: 25px;
             position: relative;
+            top: -40px;
           }
 
           
