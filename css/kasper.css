@@ -509,4 +509,7 @@ header nav .form i {
           }
           .stats::before {
             content: "";
+            position: absolute;
+
+
           }
