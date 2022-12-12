@@ -483,6 +483,7 @@ header nav .form i {
           /*start about*/
           .about {
             padding-top: var(--section-padding);
+            overflow: hidden;
           }
  
 
