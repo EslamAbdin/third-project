@@ -655,4 +655,5 @@ header nav .form i {
           .our-skills .skills .prog-holder .prog span::before {
             content: attr(data-progress);
             position: absolute;
+            background-color: black;
           }
