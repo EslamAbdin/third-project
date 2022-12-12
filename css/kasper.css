@@ -830,6 +830,7 @@ header nav .form i {
             background-color: var(--main-color);
             color: white;
             padding: 10px 20px;
+            border: 1px solid white;
           }
           
           
