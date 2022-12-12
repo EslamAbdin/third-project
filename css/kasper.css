@@ -687,5 +687,6 @@ header nav .form i {
           .quote::before {
             content: "";
             left: 0;
+            top: 0;
           }
           
