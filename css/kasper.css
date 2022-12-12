@@ -775,5 +775,6 @@ header nav .form i {
             font-size: 20px;
           }
           .pricing .contact-link {
+            display: block;
           }
           
