@@ -505,6 +505,7 @@ header nav .form i {
             padding-bottom: var(--section-padding);
             text-align: center;
             background-size: cover;
+            position: relative;
           }
  
 
