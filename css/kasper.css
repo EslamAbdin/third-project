@@ -598,3 +598,12 @@ header nav .form i {
             border-radius: 50%;
             margin-right: 50px;
           }
+          @media (max-width: 767px) {
+            .our-skills .testimonials .content {
+              flex-direction: column;
+              text-align: center;
+            }
+            .our-skills .testimonials .content img {
+              margin: 0 auto 20px;
+            }
+          }
