@@ -732,6 +732,8 @@ header nav .form i {
             position: relative;
           }
           .pricing .plans .plan .head span::before {
+            content: "$";
+
           }
 
           
