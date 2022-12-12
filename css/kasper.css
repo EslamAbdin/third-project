@@ -667,4 +667,5 @@ header nav .form i {
           .our-skills .skills .prog-holder .prog span::after{
             content: "";
             position: absolute;
+            border-style: solid;
           }
