@@ -818,6 +818,8 @@ header nav .form i {
             width: 500px;
             max-width: 100%;
           }
+          .subscribe form i {
+          }
           .subscribe form input[type="email"] {
             border: 1px solid white;
             border-right: none;
