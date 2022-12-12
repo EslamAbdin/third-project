@@ -821,6 +821,7 @@ header nav .form i {
           .subscribe form i {
             position: absolute;
             top: 50%;
+            transform: translateY(-50%);
           }
           .subscribe form input[type="email"] {
             border: 1px solid white;
