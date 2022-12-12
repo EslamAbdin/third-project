@@ -865,5 +865,6 @@ header nav .form i {
           }
           .contact .content {
             display: flex;
+            justify-content: space-between;
           }
           
