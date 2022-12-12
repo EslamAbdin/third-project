@@ -708,7 +708,7 @@ header nav .form i {
             padding-bottom: var(--section-padding);
           }
           .pricing .plans{
-            
+            display: grid;
           }
 
           
