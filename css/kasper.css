@@ -656,4 +656,5 @@ header nav .form i {
             content: attr(data-progress);
             position: absolute;
             background-color: black;
+            color: white;
           }
