@@ -740,6 +740,7 @@ header nav .form i {
             font-weight: normal;
           }
           .pricing .plans .plan .head span::after {
+            content: "/Mo";
           }
 
           
