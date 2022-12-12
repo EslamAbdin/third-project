@@ -778,5 +778,6 @@ header nav .form i {
             display: block;
             width: fit-content;
             margin: 20px auto;
+            background-color: var(--main-color);
           }
           
