@@ -631,4 +631,5 @@ header nav .form i {
             margin-right: 10px;
           }
           .our-skills .testimonials .bullets li.active {
+            background-color: var(--main-color);
           }
