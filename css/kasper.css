@@ -568,4 +568,5 @@ header nav .form i {
           }
           .our-skills .container {
             display: flex;
+            justify-content: space-between;
           }
