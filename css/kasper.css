@@ -860,6 +860,7 @@ header nav .form i {
           /*we finshed with sub*/
           /*start desgin the contact*/
           .contact {
+            padding-top: var(--section-padding);
           }
           
           
