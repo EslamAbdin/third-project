@@ -962,4 +962,5 @@ header nav .form i {
             margin-bottom: 20px;
           }
           .footer p:not(.copyright) {
+            text-transform: uppercase;
           }
