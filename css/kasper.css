@@ -704,6 +704,8 @@ header nav .form i {
           /* End Quote */
           /*start prising*/
           .pricing {
+            padding-top: var(--section-padding);
+            padding-bottom: var(--section-padding);
           }
 
           
