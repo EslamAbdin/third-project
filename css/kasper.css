@@ -977,4 +977,5 @@ header nav .form i {
           }
           .footer .copyright span {
             font-weight: bold;
+            color: var(--main-color);
           }
