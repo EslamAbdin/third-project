@@ -546,4 +546,5 @@ header nav .form i {
             height: 40px;
             display: flex;
             background-color: black;
+            justify-content: center;
           }
