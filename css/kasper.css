@@ -938,5 +938,5 @@ header nav .form i {
           /*fisnsihed contact*/
           /*start footer*/
           .footer{
-            
+            padding-top: calc(var(--section-padding) / 2);
           }
