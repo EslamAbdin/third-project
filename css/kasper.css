@@ -776,5 +776,6 @@ header nav .form i {
           }
           .pricing .contact-link {
             display: block;
+            width: fit-content;
           }
           
