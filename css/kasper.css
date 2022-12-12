@@ -492,6 +492,12 @@ header nav .form i {
             margin-top: -120px;
             max-width: 100%;
           }
+          @media (max-width: 767px) {
+            .about img {
+              bottom: -60px;
+              margin-top: -60px;
+            }
+          }
  
 
 
