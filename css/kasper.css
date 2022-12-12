@@ -591,4 +591,5 @@ header nav .form i {
           .our-skills .testimonials .content {
             display: flex;
             align-items: center;
+            margin-bottom: 30px;
           }
