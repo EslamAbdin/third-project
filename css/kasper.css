@@ -632,4 +632,5 @@ header nav .form i {
           }
           .our-skills .testimonials .bullets li.active {
             background-color: var(--main-color);
+            border-color: var(--main-color);
           }
