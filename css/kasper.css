@@ -518,4 +518,6 @@ header nav .form i {
           }
           .stats .container {
             position: relative;
+            display: flex;
+
           }
