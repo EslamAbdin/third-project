@@ -685,5 +685,6 @@ header nav .form i {
             color: white;
           }
           .quote::before {
+            content: "";
           }
           
