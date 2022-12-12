@@ -765,6 +765,7 @@ header nav .form i {
             display: block;
             padding: 20px 20px;
             text-decoration: none;
+            border: 1px solid var(--main-color);
           }
 
           
