@@ -897,4 +897,5 @@ header nav .form i {
             flex-basis: 25%;
           }
           .contact .content .info h4 {
+            text-transform: uppercase;
           }
