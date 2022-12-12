@@ -507,11 +507,5 @@ header nav .form i {
             background-size: cover;
             position: relative;
           }
- 
-
-
-
-
-
-
-
+          .stats::before {
+          }
