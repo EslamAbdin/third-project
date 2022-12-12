@@ -731,5 +731,7 @@ header nav .form i {
             font-weight: bold;
             position: relative;
           }
+          .pricing .plans .plan .head span::before {
+          }
 
           
