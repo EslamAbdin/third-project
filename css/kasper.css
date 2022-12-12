@@ -463,8 +463,9 @@ header nav .form i {
           background-color: var(--transparent-color);
           color: white;
           text-align: center;
-
         }
+          .video .text h2 {
+          }
 
 
 
