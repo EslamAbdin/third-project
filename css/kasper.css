@@ -439,6 +439,9 @@ header nav .form i {
         }
         /*end portfolio*/
         /*start video*/
+        .video {
+          position: relative;
+        }
 
 
 
