@@ -564,4 +564,5 @@ header nav .form i {
           /*start design the skills*/
           .our-skills {
             padding-top: var(--section-padding);
+            padding-bottom: var(--section-padding);
           }
